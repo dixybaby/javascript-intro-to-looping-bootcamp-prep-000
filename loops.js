@@ -11,9 +11,8 @@ function forLoop(array){
 }
 
 function whileLoop(n) {
-  let countdown = 100
-  while(100>0) {
-    console.log(--100)
-  }
-  return n
+  let countdown = 100;
+  while(100 > 0 ) {
+    console.log('done')
+  }  
 }
